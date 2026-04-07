@@ -56,7 +56,7 @@ just game logic
 	int right_end = SCREEN_SIZE-1;
 
 	inline int get_speed(){//speed in update per second
-		return (level+1)*5;
+		return (level+1)*3;
 	}
 
 	void step_up(){
