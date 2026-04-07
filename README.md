@@ -1,7 +1,7 @@
 # Stacking game
 a simple game writte in c++ and SDL2
 
-[preview](./Preview.png)
+[preview](https://github.com/Ztirom45/stacking-game/blob/main/Preview.png)
 
 ## run
 - install SDL2 dev libraries
